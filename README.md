@@ -1,6 +1,4 @@
-# SaldeoSMART i Rewizor nexo to komplementarne księgowość + automatyzacja.
-
-## 🎄 Centralny proces pracy: dokumenty → integracja → księgowość.
+# Komplementarna księgowość + automatyzacja = nasza pasja
 
 ### 🔵 **SaldeoSMART**  
 - OCR i odczyt faktur  
@@ -27,25 +25,24 @@
 
 ---
 
-## 💡 Co to oznacza w praktyce? Tego potrzebuje moja firma:
+## 💡 Co to oznacza w praktyce?
 
 ### Fakturowanie, OCR i elektronicznego obiegu dokumentów 
 
-**SaldeoSMART**
+ 🔵 **SaldeoSMART**
 
 ### Pełna księgowość (księgi, VAT, rozrachunki itd.)
 
-**Rewizor nexo**
+ 🔴 **Rewizor nexo**
 
-###Automatyzacja i synchronizacja
+### Automatyzacja i synchronizacja:  **faktury** → **obieg** → **księgowość** 
 
-**SaldeoSMART** + **Rewizor nexo** + **EAS**
-
-- **faktury → obieg → księgowość** -
-
+ 🔵 **SaldeoSMART**  +  🟢 **EAS** +  🔴 **Rewizor nexo**
+                            
 ---
 
-## 🚀 Proces wdrożenia w firmie
+# 🚀 Proces wdrożenia w firmie
+## dokumenty → integracja → księgowość.
 
 ### 1. **Analiza stanu obecnego**
 - Jak dokumenty trafiają do firmy?  
