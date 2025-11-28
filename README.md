@@ -25,7 +25,7 @@
 
 ---
 
-## 💡 Co to oznacza w praktyce dla Firmy?
+## Co to oznacza w praktyce dla Firmy?
 
 ### Fakturowanie, OCR i elektronicznego obiegu dokumentów 
 
@@ -41,8 +41,8 @@
                             
 ---
 
-# 🚀 Proces wdrożenia w firmie
-## dokumenty → integracja → księgowość.
+## Proces wdrożenia w firmie
+### 🔵 dokumenty → 🟢 integracja → 🔴 księgowość.
 
 ### 1. **Analiza stanu obecnego**
 - Jak dokumenty trafiają do firmy?  
