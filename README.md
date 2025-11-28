@@ -1,4 +1,4 @@
-## Komplementarna księgowość + automatyzacja
+## 1. Komplementarna księgowość + automatyzacja
 
 ### 🔵 **SaldeoSMART**  
 - OCR i odczyt faktur  
@@ -25,7 +25,7 @@
 
 ---
 
-## Co to oznacza w praktyce dla Firmy?
+## 2. Co to oznacza w praktyce dla Firmy?
 
 ### Fakturowanie, OCR i elektronicznego obiegu dokumentów 
 
@@ -41,7 +41,7 @@
                             
 ---
 
-## Proces wdrożenia w firmie
+## 3. Proces wdrożenia w firmie
 ### 🔵 dokumenty → 🟢 integracja → 🔴 księgowość.
 
 ### 1. **Analiza stanu obecnego**
